@@ -3,7 +3,7 @@ const BLOG = {
   author: '天行者YANG',
   email: 'michaelliu99@sina.com',
   link: 'https://skywalkerai.com',
-  description: '一枚热爱生活，热爱技术，习惯体系化思考，敢于尝试新想法的程序猿',
+  description: '一枚热爱生活，热爱技术，习惯结构化思考，敢于尝试新想法的程序猿（同时也能带带队伍 😗）。',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
@@ -17,7 +17,7 @@ const BLOG = {
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
-  socialLink: 'https://twitter.com/craigaryhart',
+  socialLink: 'https://twitter.com/liuyangchina',
   seo: {
     keywords: ['天行者YANG', 'Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
